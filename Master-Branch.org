@@ -1,0 +1,10 @@
+#+TITLE: The Master Branch Document
+#+AUTHOR: Mark Norton
+#+DATE: Thu Oct 10 08:44:38 2024
+#+EMAIL: mark.norton@garmin.com
+#+options: timestamp:t title:t toc:t todo:t |:t ^:{}
+#+startup: num
+
+* The first commit
+
+This is the document on the master branch that I'm using as testing.
