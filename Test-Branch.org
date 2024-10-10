@@ -1,0 +1,19 @@
+#+TITLE: Rebase Testing Branch
+#+AUTHOR: Mark Norton
+#+DATE: Thu Oct 10 08:37:30 2024
+#+EMAIL: mark.norton@garmin.com
+#+options: timestamp:t title:t toc:t todo:t |:t ^:{}
+#+startup: num
+
+* The first branch commit
+
+Ipsum whatever.  Going to commit this file to the ~test-1~ branch.
+
+* The second branch commit
+
+Dolores whatever.  This will be a second commit to the ~test-1~ branch.
+
+* The third branch commit
+
+Man this example is dumb.
+
