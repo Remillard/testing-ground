@@ -8,3 +8,7 @@
 * The first commit
 
 This is the document on the master branch that I'm using as testing.
+
+* The second commit
+
+Creating another commit for good measure on ~master~.
